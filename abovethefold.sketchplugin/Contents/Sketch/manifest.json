@@ -38,12 +38,12 @@
       "abovethefold.on-boarding"
     ]
   },
-  "version": "1.0.0",
-  "description": "Where ends my Above the Fold section? We answer that!",
-  "name": "Above the Fold by VisualEyes",
-  "identifier": "Above the Fold by VisualEyes",
+  "version": "1.0.4",
+  "description": "Mark your designs with a layer that indicates where is the Above the Fold portion.",
+  "name": "Above the Fold",
+  "identifier": "Above the Fold",
   "disableCocoaScriptPreprocessor": true,
   "appcast": "https://raw.githubusercontent.com/loceye/sketch-above-the-fold/master/.appcast.xml",
-  "author": "Loceye",
+  "author": "VisualEyes",
   "authorEmail": "info@loceye.io"
 }
