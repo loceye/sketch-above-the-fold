@@ -1,5 +1,9 @@
 # Above the Fold for Sketch by VisualEyes
 
+<p align="center" >
+  <img width="20%" src="./logo.png"/>
+ </p>
+
 Welcome on board fellow designer!
 
 Below is everything you need to know about our plugin.
