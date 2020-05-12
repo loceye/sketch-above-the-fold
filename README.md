@@ -6,9 +6,7 @@
 
 Welcome on board fellow designer!
 
-Below is everything you need to know about our plugin.
-
-You can find out more info on how to use it at [our landing page](https://visualeyes.design/tools/above-the-fold)
+Below is everything you need to know about our plugin. You can find out more info on how to use it at [our landing page](https://www.visualeyes.design/tools/above-the-fold)
 
 ## ⚡️ How Above the Fold plugin works?
 
