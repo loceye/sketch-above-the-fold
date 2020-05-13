@@ -38,7 +38,7 @@
       "abovethefold.on-boarding"
     ]
   },
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Mark your designs with a layer that indicates where is the Above the Fold portion.",
   "name": "Above the Fold",
   "identifier": "Above the Fold",
